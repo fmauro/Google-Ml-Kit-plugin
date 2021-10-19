@@ -21,7 +21,7 @@ flutter plugin for google ml kit
   s.dependency 'GoogleMLKit/ImageLabeling', '~> 2.2.0'
   s.dependency 'GoogleMLKit/ImageLabelingCustom', '~> 2.2.0'
   s.dependency 'GoogleMLKit/LinkFirebase', '~> 2.2.0'
-  s.dependency 'GoogleMLKit/BarcodeScanning', '~> 2.2.0'
+  s.dependency 'GoogleMLKit/BarcodeScanning', '~> 2.3.0'
   s.dependency 'GoogleMLKit/TextRecognition', '~> 2.2.0'
   s.dependency 'GoogleMLKit/PoseDetection', '~> 2.2.0'
   s.dependency 'GoogleMLKit/PoseDetectionAccurate', '~> 2.2.0'
